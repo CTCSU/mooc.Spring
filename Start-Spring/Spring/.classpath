@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/spring/spring-aop-4.0.5.RELEASE.jar" sourcepath="lib/resource/spring/spring-aop-4.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-aspects-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-beans-4.0.5.RELEASE.jar" sourcepath="lib/resource/spring/spring-beans-4.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-context-4.0.5.RELEASE.jar" sourcepath="lib/resource/spring/spring-context-4.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-context-support-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-core-4.0.5.RELEASE.jar" sourcepath="lib/resource/spring/spring-core-4.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-expression-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-framework-bom-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-instrument-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-instrument-tomcat-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-jdbc-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-jms-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-messaging-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-orm-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-oxm-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-test-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-tx-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-web-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-webmvc-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-webmvc-portlet-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-websocket-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/apache/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/junit/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="lib/aspect/aspectjrt-1.7.4.jar"/>
+	<classpathentry kind="lib" path="lib/aspect/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/aspect/aspectjweaver-1.7.4.jar"/>
+	<classpathentry kind="lib" path="lib/javax.inject.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
