@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Spring"/>
+	<classpathentry kind="lib" path="D:/编程/下载内容/55eba12b0001f25b00000000/素材/lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/编程/下载内容/55eba12b0001f25b00000000/素材/lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="D:/老毛桃U盘/F盘/编程/Spring jar包/spring所有章节源码/Spring/lib/junit/junit-4.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
