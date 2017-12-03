@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_6_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mybatis-3.2.7.jar" sourcepath="C:/Users/Administrator/Desktop/demo/mybatis-3-mybatis-3.2.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JSF 2.0 (Apache Myfaces JSF Core-2.0 API 2.0.2)"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/other"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring"/>
+	<classpathentry kind="lib" path="D:/编程/下载内容/其他插件/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/编程/下载内容/其他插件/javax.servlet.jsp.jstl-1.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/编程/下载内容/其他插件/javax.servlet.jsp.jstl-1.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/编程/下载内容/其他插件/javax.servlet.jsp.jstl-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/编程/下载内容/其他插件/javax.servlet.jsp.jstl-api-1.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/编程/下载内容/其他插件/javax.servlet.jsp.jstl-api-1.2.1-sources.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
